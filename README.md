@@ -1,4 +1,4 @@
-# PABLRDLE
+# <img src="http://codechemistry.co/pablrdle/images/pablrdle-logo.jpg" width="350px" />
  
  This is a clone of the popular daily word game Wordle (https://www.powerlanguage.co.uk/wordle/).  
  
