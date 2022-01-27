@@ -1,4 +1,4 @@
-# pablrdle
+# PABLRDLE
  
  This is a clone of the popular daily word game Wordle (https://www.powerlanguage.co.uk/wordle/).  
  
